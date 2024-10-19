@@ -1,18 +1,18 @@
-<h1 align="center">
+<h1 align="center" style="color:#FF5733;">
   Nguyễn Minh Trường
 </h1>
 
-<h1 align="center">
-  Welcome to <span style="color:#0077B5;">Huflit Công Nghệ</span> 🚀
+<h1 align="center" style="color:#0077B5;">
+  Welcome to <span style="color:#FF5733;">Huflit Công Nghệ</span> 🚀
   <img src="https://media.giphy.com/media/fAnEC88LqFUxG/giphy.gif" width="60">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=The+Next+Big+Thing+in+Mobile+Apps;Transforming+Connectivity;Innovative+Solutions+for+Everyone;Experience+the+Future+Now!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=The+Next+Big+Thing+in+Mobile+Apps;Transforming+Connectivity;Innovative+Solutions+for+Everyone;Experience+the+Future+Now!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <i>Discover the future of technology with <span style="color:#0077B5;">Huflit Công Nghệ</span> - the innovative mobile solution for connectivity and convenience.</i>
+<p align="center" style="font-size: 18px;">
+  <i>Discover the future of technology with <span style="color:#FF5733;">Huflit Công Nghệ</span> - the innovative mobile solution for connectivity and convenience.</i>
 </p>
 
 ---
@@ -76,7 +76,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <i>"Huflit Công Nghệ - Innovating the Future, One App at a Time."</i>
 </div>
 
