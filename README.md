@@ -1,10 +1,10 @@
 <h1 align="center" style="color:#FF5733;">
- à nhon i'm Nguyễn Minh Trường
+  Nguyễn Minh Trường
 </h1>
 
 <h1 align="center" style="color:#0077B5;">
   Welcome to <span style="color:#FF5733;">Huflit Công Nghệ</span> 🚀
-  <img src="https://media.giphy.com/media/fAnEC88LqFUxG/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/fAnEC88LqFUxG/giphy.gif" width="30">
 </h1>
 
 <div align="center">
