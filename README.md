@@ -1,54 +1,50 @@
 <h1 align="center">
-    à nhon i'm Minh Trường <span style="color:#ffcocb;">HuflitMobile</span> 🌹
-  <img src="https://media.giphy.com/media/Mp4hQy51LjY6A/giphy.gif" width="40">
-</h1>
-<h1 align="center">
-  Welcome to <span style="color:#0077B5;">HuflitMobile</span> 🚀
-  <img src="https://media.giphy.com/media/Mp4hQy51LjY6A/giphy.gif" width="40">
+  Welcome to <span style="color:#0077B5;">Huflit Công Nghệ</span> 🚀
+  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9pYkA/giphy.gif" width="50">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=450&lines=The+Future+of+Mobile+App;Your+One-stop+Solution;Connect+and+Shop+Easily;Developed+by+HUFLIT+Students" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=450&lines=The+Power+of+Technology;HUFLIT's+Innovation+Hub;Connecting+Users+Effortlessly;Advanced+Mobile+Applications" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <i>Bringing convenience, connection, and creativity right to your fingertips!</i>
+  <i>Discover the future of technology with <span style="color:#0077B5;">Huflit Công Nghệ</span> - the innovative mobile solution for connectivity and convenience.</i>
 </p>
 
 ---
 
-## 📱 About HuflitMobile
+## 🌟 About Huflit Công Nghệ
 
-- **HuflitMobile** is an innovative app designed to make mobile interactions smooth, fast, and user-friendly.
-- Built by talented developers at **HUFLIT**, this app offers the best in user experience with seamless navigation and cutting-edge features.
+- **Huflit Công Nghệ** is your gateway to advanced mobile solutions, designed to bring convenience and innovation to users.
+- Built by talented developers from **HUFLIT**, this app focuses on cutting-edge technology, ensuring users have the best experience.
   
 ---
 
-## 🌟 Key Features
+## 🚀 Core Features
 
-### 🔐 **User Registration and Login**
-- Effortless sign-up and login process with Firebase authentication.
-- ![Login GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+### 🔐 **User Registration & Secure Login**
+- Simple and secure sign-up and login process using Firebase authentication.
+- ![Login GIF](https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif)
 
-### 📰 **Post and Share Content**
-- Users can post articles, share updates, and stay connected.
-- ![Posting GIF](https://media.giphy.com/media/3o85xoZVLMpXvLd8p6/giphy.gif)
+### 📰 **Share & Post Updates**
+- Create posts, share with friends, and stay engaged with the community.
+- ![Posting GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-### 💬 **Comments & Interaction**
-- Engage with other users by commenting on posts and updates.
-- ![Comments GIF](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
+### 💬 **Engage with Comments**
+- Interact with posts by leaving comments and likes.
+- ![Comments GIF](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
 
-### 🍔 **Order Food and Beverages**
-- Quick and easy ordering from a wide range of delicious products.
-- ![Ordering GIF](https://media.giphy.com/media/l3fZMS9eK1sdWwTs4/giphy.gif)
+### 🍔 **Order Food & Beverages**
+- Browse and order from your favorite food and beverages with ease.
+- ![Ordering GIF](https://media.giphy.com/media/Wf5AjKZ8G5WlQLaP5Q/giphy.gif)
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: Flutter
+- **Frontend**: Flutter, Dart
 - **Backend**: Firebase, Node.js
-- **Database**: Firestore
+- **Database**: Firestore, MongoDB
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -59,9 +55,9 @@
 
 ---
 
-## 🌍 Connect with Us
+## 🌐 Connect with Us
 
-- Feel free to check out the app on GitHub or reach out to our development team:
+- Stay connected with the team behind **Huflit Công Nghệ**:
 
 <p align="center">
   <a href="https://github.com/yourusername" target="_blank">
@@ -78,7 +74,7 @@
 ---
 
 <div align="center">
-  <i>"HuflitMobile - Elevating your mobile experience!"</i>
+  <i>"Huflit Công Nghệ - Bringing innovation and technology to your fingertips."</i>
 </div>
 
-![Mobile GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
