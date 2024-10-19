@@ -1,4 +1,8 @@
 <h1 align="center">
+  Nguyễn Minh Trường
+</h1>
+
+<h1 align="center">
   Welcome to <span style="color:#0077B5;">Huflit Công Nghệ</span> 🚀
   <img src="https://media.giphy.com/media/fAnEC88LqFUxG/giphy.gif" width="60">
 </h1>
