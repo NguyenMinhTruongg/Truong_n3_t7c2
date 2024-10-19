@@ -1,10 +1,10 @@
 <h1 align="center">
   Welcome to <span style="color:#0077B5;">Huflit Công Nghệ</span> 🚀
-  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9pYkA/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/fAnEC88LqFUxG/giphy.gif" width="60">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=450&lines=The+Power+of+Technology;HUFLIT's+Innovation+Hub;Connecting+Users+Effortlessly;Advanced+Mobile+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=The+Next+Big+Thing+in+Mobile+Apps;Transforming+Connectivity;Innovative+Solutions+for+Everyone;Experience+the+Future+Now!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,28 +15,27 @@
 
 ## 🌟 About Huflit Công Nghệ
 
-- **Huflit Công Nghệ** is your gateway to advanced mobile solutions, designed to bring convenience and innovation to users.
-- Built by talented developers from **HUFLIT**, this app focuses on cutting-edge technology, ensuring users have the best experience.
-  
+**Huflit Công Nghệ** is not just another mobile application; it's a revolutionary platform designed to empower users through seamless connectivity, innovative features, and user-friendly interfaces. Crafted by talented developers at **HUFLIT**, we aim to set new standards in the mobile app industry.
+
 ---
 
-## 🚀 Core Features
+## 🚀 Key Features
 
 ### 🔐 **User Registration & Secure Login**
-- Simple and secure sign-up and login process using Firebase authentication.
-- ![Login GIF](https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif)
+- **Seamless Experience**: Effortless sign-up and login with Firebase authentication to ensure data security.
+- ![Login GIF](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
 
 ### 📰 **Share & Post Updates**
-- Create posts, share with friends, and stay engaged with the community.
-- ![Posting GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+- **Engagement**: Create posts, share your thoughts, and connect with a vibrant community.
+- ![Posting GIF](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
 
 ### 💬 **Engage with Comments**
-- Interact with posts by leaving comments and likes.
-- ![Comments GIF](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
+- **Interaction**: Leave comments and likes on posts to foster interaction within the community.
+- ![Comments GIF](https://media.giphy.com/media/3o7TKM3jv9C6GjlJ9e/giphy.gif)
 
 ### 🍔 **Order Food & Beverages**
-- Browse and order from your favorite food and beverages with ease.
-- ![Ordering GIF](https://media.giphy.com/media/Wf5AjKZ8G5WlQLaP5Q/giphy.gif)
+- **Convenience**: Quick and easy ordering from a wide range of delicious food and beverages.
+- ![Ordering GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
 
 ---
 
@@ -57,7 +56,7 @@
 
 ## 🌐 Connect with Us
 
-- Stay connected with the team behind **Huflit Công Nghệ**:
+- Stay connected with the innovative team behind **Huflit Công Nghệ**:
 
 <p align="center">
   <a href="https://github.com/yourusername" target="_blank">
@@ -74,7 +73,7 @@
 ---
 
 <div align="center">
-  <i>"Huflit Công Nghệ - Bringing innovation and technology to your fingertips."</i>
+  <i>"Huflit Công Nghệ - Innovating the Future, One App at a Time."</i>
 </div>
 
-![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Technology GIF](https://media.giphy.com/media/l3q2yj5Um0P2vXcH2/giphy.gif)
