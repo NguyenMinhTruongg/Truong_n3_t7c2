@@ -1,5 +1,5 @@
 <h1 align="center">
-    à nhon i'm Minh Trường <span style="color:#0077B5;">HuflitMobile</span> 🚀
+    à nhon i'm Minh Trường <span style="color:#ffcocb;">HuflitMobile</span> 🌹
   <img src="https://media.giphy.com/media/Mp4hQy51LjY6A/giphy.gif" width="40">
 </h1>
 <h1 align="center">
